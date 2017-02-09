@@ -1,0 +1,57 @@
+nav {
+  position:fixed;
+  width:100%;
+  background-color:orange;
+  height:70px;
+}
+
+header {
+  width:936px;
+  height:70px;
+  margin:auto;
+}
+
+h1 {
+  display:inline-block;
+  font-size:larger;
+  top:50px;
+}
+
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+  border:1px solid black;
+}
+
+img {
+  width:100%;
+
+}
+
+.col-12 {border:1px solid blue;
+}
+
+.col-4 {
+    padding:-5%;
+    border:1px solid red;
+}
+
+.card{
+  border:1px solid grey;
+}
+
+.caption {
+  padding-left:10px;
+}
+
+p {
+  font-weight:bolder;
+}
+
+span {display:block;
+margin-bottom:20px;
+font-size:small;
+}

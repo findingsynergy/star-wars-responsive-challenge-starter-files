@@ -1,57 +1,36 @@
-nav {
-  position:fixed;
-  width:100%;
-  background-color:orange;
-  height:70px;
+.orange {
+  background-color: orange;
 }
 
-header {
-  width:936px;
-  height:70px;
-  margin:auto;
+.orange .col-12 {
+  margin-top: 0;
+}
+
+.orange .col-12 div {
+  margin-bottom: 1rem;
 }
 
 h1 {
-  display:inline-block;
-  font-size:larger;
-  top:50px;
+  margin-bottom: .5rem;
 }
 
-main {
-  padding-top: 100px;
-}
-
-main .row {
-  margin-bottom: 20px;
-  border:1px solid black;
+.col-4,
+.col-12 {
+  margin-top: 1.5rem;
 }
 
 img {
-  width:100%;
-
+  width: 100%;
 }
 
-.col-12 {border:1px solid blue;
+.card {
+  border: 1px solid grey;
 }
 
-.col-4 {
-    padding:-5%;
-    border:1px solid red;
+h3,
+.card div {
+  margin-left: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
-.card{
-  border:1px solid grey;
-}
-
-.caption {
-  padding-left:10px;
-}
-
-p {
-  font-weight:bolder;
-}
-
-span {display:block;
-margin-bottom:20px;
-font-size:small;
-}

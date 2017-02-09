@@ -1,4 +1,6 @@
-* {font-size: 1.5vw;}
+main {
+  font-size:12pt;
+}
 
 .orange {
   background-color: orange;
@@ -9,17 +11,18 @@
 }
 
 .orange .col-12 div {
-  margin-bottom: 1vw;
+  margin-bottom: 12pt;
 }
 
 h1 {
-  margin-bottom: 1vw;
-  font-size: 3vw;
+  margin-bottom: 8pt;
+  font-size: 23pt;
 }
+
 
 .col-4,
 .col-12 {
-  margin-top: 3vw;
+  margin-top: 10pt;
 }
 
 img {
@@ -30,17 +33,17 @@ img {
   border: 1px solid grey;
 }
 
+  
 h3 {
-  font-size:2vw;
+  font-size:15pt;
   font-weight:bold;
-  margin-left: 1.5vw;
-  margin-top: 2vw;
-  margin-bottom: .5vw;
+  margin-left: 12pt;
+  margin-top: 12pt;
+  margin-bottom: 6pt;
 }
 
 .card div {
-  margin-left: 1.5vw;
-  margin-top: 1vw;
-  margin-bottom: 2vw;
+  margin-left: 12pt;
+  margin-top: 5pt;
+  margin-bottom: 5pt;
 }
-
